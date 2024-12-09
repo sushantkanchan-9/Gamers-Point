@@ -12,7 +12,7 @@ import {
 import PlatformIconList from "./PlatformIconList";
 import CriticScore from "./CriticScore";
 import getCroopedIMGUrl from "../services/image-url";
-import "../app.css";
+import "../App.css";
 import Emoji from "./Emoji";
 import AutoCarousel from "./AutoCarousel";
 
